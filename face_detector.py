@@ -20,6 +20,3 @@ print(face_coordinates)
 
 cv2.imshow("Clever Programmer Face Detector", img)
 cv2.waitKey()
-
-
-print("Code Completed")
